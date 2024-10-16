@@ -16,8 +16,8 @@ The dataset used in this project is the Dogs vs. Cats dataset, which contains 25
     2. Generate your API key
     3. Place the kaggle.json file in the correct directory If you are working locally.For Google Colab, you can upload the kaggle.json file manually using
     
-  # Reduce Dataset Size if Needed:
-    If the training process takes too long (e.g., more than 1 hour), you can reduce the number of images being used. Before splitting the dataset, you can randomly sample a subset of the data to speed up the training. For example, reducing the number of images to 10,000     or 5,000 may significantly improve training time without compromising much on performance.
+# Reduce Dataset Size if Needed:
+  If the training process takes too long (e.g., more than 1 hour), you can reduce the number of images being used. Before splitting the dataset, you can randomly sample a subset of the data to speed up the training. For example, reducing the number of images to 10,000     or 5,000 may significantly improve training time without compromising much on performance.
 
 # Installation
 To run this project, you will need the following dependencies:
